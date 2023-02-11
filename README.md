@@ -10,10 +10,12 @@ I have been coding for over 6 years now since I was just 8 years old. My journey
 
 ### About Me
 
-* ⬜  I've been coding for over 6 years
-* ⬜  I'm 14 years old
+* 💻  I've been coding for over 6 years
+* 👨‍💻  I'm 14 years old
 * 🌍  I'm based in the UK
-* 🎧  I'm also a big Trance fan 
+* 🎹  I play the Piano
+* 🏋️‍♂️  I like lifting weights
+* 🎧  I'm a big Trance fan
 
 
 
@@ -27,7 +29,7 @@ I have been coding for over 6 years now since I was just 8 years old. My journey
 
 ### Projects
 
-Most of my projects are on GitHub but you can see all of them here:
+Most of my newer projects are on GitHub but you can see all of them here:
 
 * Created a simple game in **Unity** (that I never fully finished) with 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="12" height="12"> **C#**
@@ -51,10 +53,10 @@ Most of my projects are on GitHub but you can see all of them here:
 
 * Created AJCmd in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal "command line"
 
-* Created DrFrostMaths Numeracy Game Bot in
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** with **Selenium**
+* Created [DrFrostMaths Numeracy Game Bot](https://github.com/aaronjc15128/Dr-Frost-Maths-Numeracy-Game-Bot) in
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Selenium**
 
-* Created Expertle in
+* Created [Expertle](https://github.com/aaronjc15128/Expertle) in
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="12" height="12"> **HTML5**, 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="12" height="12"> **CSS3**, & 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="12" height="12"> **JS** with 
@@ -62,7 +64,10 @@ Most of my projects are on GitHub but you can see all of them here:
 
 * Created a remake of Flappy Bird in Unity with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="12" height="12"> **C#**
 
-* Recreated FileManager in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Tkinter** and added a lot more features
+* Recreated [FileManager](https://github.com/aaronjc15128/File-Manager) in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Tkinter** and added a lot more features
+
+* Created [TicTacToe Bot](https://github.com/aaronjc15128/Tic-Tac-Toe-Bot) in
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Tkinter**
 
 * Created a **VPN** using **OpenVPN** via an **AWS** **EC2** instance
 
