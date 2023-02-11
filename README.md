@@ -83,11 +83,19 @@ Most of my newer projects are on GitHub but you can see all of them here:
 
 <b>My GitHub Stats</b>
 
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronjc15128&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaron Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronjc15128&show_icons=true&theme=dracula)](https://github.com/aaronjc15128)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjc15128&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjc15128&layout=compact&langs_count=5&theme=dracula)](https://github.com/aaronjc15128)
 
 
 <b>My Badges</b>
 
 None yet :(
+
+
+
+### Pinned Projects
+
+[![Expertle](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=Expertle&theme=dracula)](https://github.com/aaronjc15128/Expertle)
+
+[![File-Manager](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=File-Manager&theme=dracula)](https://github.com/aaronjc15128/File-Manager)
