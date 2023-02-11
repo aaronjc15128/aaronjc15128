@@ -34,39 +34,39 @@ Most of my newer projects are on GitHub but you can see all of them here:
 * Created a simple game in **Unity** (that I never fully finished) with 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="12" height="12"> **C#**
 
-* Created AutoReports in 
+* Created _AutoReports_ in 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **PyAutoGUI**
 
-* Created AutoReports Web using 
+* Created _AutoReports Web_ using 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="12" height="12"> **HTML5**, 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="12" height="12"> **CSS3**, & 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="12" height="12"> **JS** with 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="12" height="12"> **jQuery**
 
-* Created FileManager in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal app
+* Created _FileManager_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal app
 
-* Created Ultimate Noughts & Crosses using 
+* Created _Ultimate Noughts & Crosses_ using 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="12" height="12"> **HTML5**, 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="12" height="12"> **CSS3**, & 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="12" height="12"> **JS** with 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="12" height="12"> **jQuery**
 
-* Created AJCmd in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal "command line"
+* Created _AJCmd_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal "command line"
 
-* Created [DrFrostMaths Numeracy Game Bot](https://github.com/aaronjc15128/Dr-Frost-Maths-Numeracy-Game-Bot) in
+* Created _[DrFrostMaths Numeracy Game Bot](https://github.com/aaronjc15128/Dr-Frost-Maths-Numeracy-Game-Bot)_ in
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Selenium**
 
-* Created [Expertle](https://github.com/aaronjc15128/Expertle) in
+* Created _[Expertle](https://github.com/aaronjc15128/Expertle)_ in
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="12" height="12"> **HTML5**, 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="12" height="12"> **CSS3**, & 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="12" height="12"> **JS** with 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="12" height="12"> **jQuery**
 
-* Created a remake of Flappy Bird in Unity with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="12" height="12"> **C#**
+* Created a remake of _Flappy Bird_ in **Unity** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="12" height="12"> **C#**
 
-* Recreated [FileManager](https://github.com/aaronjc15128/File-Manager) in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Tkinter** and added a lot more features
+* Recreated _[FileManager](https://github.com/aaronjc15128/File-Manager)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Tkinter** and added a lot more features
 
-* Created [TicTacToe Bot](https://github.com/aaronjc15128/Tic-Tac-Toe-Bot) in
+* Created _[TicTacToe Bot](https://github.com/aaronjc15128/Tic-Tac-Toe-Bot)_ in
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Tkinter**
 
 * Created a **VPN** using **OpenVPN** via an **AWS** **EC2** instance
