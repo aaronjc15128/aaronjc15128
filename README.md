@@ -70,6 +70,10 @@ Most of my newer projects are on GitHub but you can see all of them here:
 
 * Created a **VPN** using **OpenVPN** via an **AWS** **EC2** instance
 
+* Created _[BrainFuck Generator](https://github.com/aaronjc15128/BrainFuck-Generator)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python**
+
+* Created _[BrainFuck Interpreter](https://github.com/aaronjc15128/BrainFuck-Interpreter)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal app
+
 
 
 ### Socials
