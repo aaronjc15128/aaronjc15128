@@ -1,7 +1,7 @@
 Hi 👋 My name is Aaron Chauhan
 ==============================
 
-14 Years Old - Python Developer
+14 Years Old - Python & Flutter Developer
 ---------------------------------------------
 
 I have been coding for over 6 years now since I was just 8 years old. My journey started with me learning Scratch and developing simple games, and now I am a hobbiest Software & Mobile App Developer. You can see my whole journey here: [Coding Journey - Google Docs](https://docs.google.com/document/d1pp72OmKtEoKodtArt90codOBIdydvExuMR7Cg1q\_Eao/edit?usp=sharing). I keep adding to it every few months so be sure to check it out.
@@ -23,6 +23,8 @@ I have been coding for over 6 years now since I was just 8 years old. My journey
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart">
 </p>
 
 
