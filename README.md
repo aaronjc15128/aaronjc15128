@@ -44,6 +44,8 @@ Most of my newer projects are on GitHub but you can see all of them here:
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="12" height="12"> **CSS3**, & 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="12" height="12"> **JS**
 
+* Created _ThunderBot_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** with **Discord.py**
+
 * Created _FileManager_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal app
 
 * Created _Ultimate Noughts & Crosses_ using 
