@@ -1,7 +1,7 @@
 Hi 👋 My name is Aaron Chauhan
 ==============================
 
-14 Years Old - Python & Flutter Developer
+14 Years Old - Flutter Developer
 ---------------------------------------------
 
 I have been coding for over 6 years now since I was just 8 years old. My journey started with me learning Scratch and developing simple games, and now I am a hobbiest Software & Mobile App Developer. You can see my whole journey here: [Coding Journey - Google Docs](https://docs.google.com/document/d1pp72OmKtEoKodtArt90codOBIdydvExuMR7Cg1q\_Eao/edit?usp=sharing). I keep adding to it every few months so be sure to check it out.
@@ -31,7 +31,7 @@ I have been coding for over 6 years now since I was just 8 years old. My journey
 
 ### Projects
 
-Most of my newer projects are on GitHub but you can see all of them here:
+Most of my newer projects are on GitHub but you can see all of them here from oldest to newest:
 
 * Created a simple game in **Unity** (that I never fully finished) with 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="12" height="12"> **C#**
@@ -78,7 +78,9 @@ Most of my newer projects are on GitHub but you can see all of them here:
 
 * Created _[BrainFuck Interpreter](https://github.com/aaronjc15128/BrainFuck-Interpreter)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal app
 
-* Working On _[Simple Password Utilities](https://github.com/aaronjc15128/simple_password_utilities)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
+* Created _[Simple Password Utilities](https://github.com/aaronjc15128/simple_password_utilities)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
+
+* Working On _[Ares](https://github.com/aaronjc15128/ares)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
 
 ### Socials
@@ -86,30 +88,24 @@ Most of my newer projects are on GitHub but you can see all of them here:
 <p align="left">
 <a href="https://www.github.com/aaronjc15128" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/16098405/aaron-chauhan?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-<a href="https://medium.com/@aaronjchauhan2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/aaronjc#5057" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
 
 
 
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 [![Aaron Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronjc15128&show_icons=true&theme=dracula)](https://github.com/aaronjc15128)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjc15128&layout=compact&langs_count=5&theme=dracula)](https://github.com/aaronjc15128)
-
-
-<b>My Badges</b>
-
-None yet :(
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjc15128&layout=compact&langs_count=4&theme=dracula)](https://github.com/aaronjc15128)
 
 
 
 ### Pinned Projects
 
-[![Expertle](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=Expertle&theme=dracula)](https://github.com/aaronjc15128/Expertle)
+[![Simple Password Utilities](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=simple_password_utilities&theme=dracula)](https://github.com/aaronjc15128/simple_password_utilities)
 
 [![File-Manager](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=File-Manager&theme=dracula)](https://github.com/aaronjc15128/File-Manager)
+
+[![Expertle](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=Expertle&theme=dracula)](https://github.com/aaronjc15128/Expertle)
