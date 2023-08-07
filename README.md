@@ -94,7 +94,7 @@ Most of my newer projects are on GitHub but you can see all of them here from ol
 
 ### GitHub Stats
 
-[![Aaron Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronjc15128&show_icons=true&theme=dracula)](https://github.com/aaronjc15128)
+[![Aaron Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronjc15128&show_icons=true&rank_icon=github&theme=dracula)](https://github.com/aaronjc15128)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjc15128&langs_count=4&theme=dracula)](https://github.com/aaronjc15128)
 
