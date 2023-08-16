@@ -80,7 +80,7 @@ Most of my newer projects are on GitHub but you can see all of them here from ol
 
 * Created _[Simple Password Utilities](https://github.com/aaronjc15128/simple_password_utilities)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
-* Working On _[Ares](https://github.com/aaronjc15128/ares)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
+* Working On _[Workout App](https://github.com/aaronjc15128/workout_app)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
 
 ### Socials
