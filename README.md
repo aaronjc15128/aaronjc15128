@@ -10,7 +10,7 @@ I have been coding for almost 7 years now since I was just 8 years old. My journ
 
 ### About Me
 
-* 💻  I've been coding for over 6 years
+* 💻  I've been coding for almost 7 years
 * 👨‍💻  I'm 14 years old
 * 🌍  I'm based in the UK
 * 🎹  I play the Piano
