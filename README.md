@@ -32,7 +32,7 @@ I have been coding for over 6 years now since I was just 8 years old. My journey
 
 All my projects from 2023 from newest to oldest. You can see the whole list [here](https://github.com/aaronjc15128/project-list):
 
-* Working On _[Workout App](https://github.com/aaronjc15128/workout_app)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
+* Working On _[Lift](https://github.com/aaronjc15128/lift)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
 * Created _[Simple Password Utilities](https://github.com/aaronjc15128/simple_password_utilities)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
