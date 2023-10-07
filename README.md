@@ -30,7 +30,7 @@ I have been coding for almost 7 years now since I was just 8 years old. My journ
 
 ### Projects
 
-All my projects from 2023 from newest to oldest. You can see the whole list [here](https://github.com/aaronjc15128/project-list):
+My last 5 projects from newest to oldest. You can see the whole list [here](https://github.com/aaronjc15128/project-list):
 
 * Working On _[Lift](https://github.com/aaronjc15128/lift)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
@@ -42,11 +42,6 @@ All my projects from 2023 from newest to oldest. You can see the whole list [her
 * Created _[BrainFuck Interpreter](https://github.com/aaronjc15128/BrainFuck-Interpreter)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal app
 
 * Created _[BrainFuck Generator](https://github.com/aaronjc15128/BrainFuck-Generator)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python**
-
-* Created a **VPN** using **OpenVPN** via an **AWS** **EC2** instance
-
-* Created _[TicTacToe Bot](https://github.com/aaronjc15128/Tic-Tac-Toe-Bot)_ in
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **Tkinter**
 
 
 ### Socials
