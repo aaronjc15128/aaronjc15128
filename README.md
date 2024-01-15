@@ -10,8 +10,8 @@ I have been coding for over 7 years now since I was just 8 years old. My journey
 
 ### About Me
 
-* 💻  I've been coding for almost 7 years
-* 👨‍💻  I'm 14 years old
+* 💻  I've been coding for over 7 years
+* 👨‍💻  I'm 15 years old
 * 🌍  I'm based in the UK
 * 🎹  I play the Piano
 * 🏋️‍♂️  I like lifting weights
