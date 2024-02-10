@@ -15,7 +15,7 @@ I have been coding for over 7 years now since I was just 8 years old. My journey
 * 🌍  I'm based in the UK
 * 🎹  I play the Piano
 * 🏋️‍♂️  I like lifting weights
-* 🎧  I'm a big Trance fan
+* 🎧  I'm a big Trance enjoyer
 
 
 
