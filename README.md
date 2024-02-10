@@ -63,6 +63,8 @@ My last 5 projects from newest to oldest. You can see the whole list [here](http
 
 ### Pinned Projects
 
+[![FlutterVine](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=simple_password_utilities&theme=dracula)](https://github.com/aaronjc15128/fluttervine)
+
 [![Simple Password Utilities](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=simple_password_utilities&theme=dracula)](https://github.com/aaronjc15128/simple_password_utilities)
 
 [![File-Manager](https://github-readme-stats.vercel.app/api/pin/?username=aaronjc15128&repo=File-Manager&theme=dracula)](https://github.com/aaronjc15128/File-Manager)
