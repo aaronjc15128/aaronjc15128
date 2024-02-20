@@ -60,6 +60,12 @@ My last 5 projects from newest to oldest. You can see the whole list [here](http
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjc15128&langs_count=4&theme=dracula)](https://github.com/aaronjc15128)
 
 
+### LeetCode
+* 11 🟩
+* 00 🟨
+* 00 🟥
+* Ranked 3 411 314 🌍
+
 
 ### Pinned Projects
 
