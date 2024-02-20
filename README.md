@@ -61,10 +61,10 @@ My last 5 projects from newest to oldest. You can see the whole list [here](http
 
 
 ### LeetCode
-* 11 🟩
-* 00 🟨
-* 00 🟥
-* Ranked 3 411 314 🌍
+* 🟩 11
+* 🟨 00
+* 🟥 00
+* 🌍 Ranked 3 411 314 
 
 
 ### Pinned Projects
