@@ -1,7 +1,7 @@
 Hi 👋 My name is Aaron Chauhan
 ==============================
 
-15 Years Old - Flutter Developer
+15 Years Old - Flutter & Python Developer
 ---------------------------------------------
 
 I have been coding for almost 7.5 years now since I was just 8 years old. My journey started with me learning Scratch and developing simple games, and now I am a hobbiest Software & Mobile App Developer. You can see my whole journey here: [Coding Journey - Google Docs](https://docs.google.com/document/d/1pp72OmKtEoKodtArt90codOBIdydvExuMR7Cg1q_Eao/edit?usp=sharing). I keep adding to it every few months so be sure to check it out.
