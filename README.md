@@ -4,18 +4,19 @@ Hi 👋 My name is Aaron Chauhan
 15 Years Old - Flutter Developer
 ---------------------------------------------
 
-I have been coding for over 7 years now since I was just 8 years old. My journey started with me learning Scratch and developing simple games, and now I am a hobbiest Software & Mobile App Developer. You can see my whole journey here: [Coding Journey - Google Docs](https://docs.google.com/document/d/1pp72OmKtEoKodtArt90codOBIdydvExuMR7Cg1q_Eao/edit?usp=sharing). I keep adding to it every few months so be sure to check it out.
+I have been coding for almost 7.5 years now since I was just 8 years old. My journey started with me learning Scratch and developing simple games, and now I am a hobbiest Software & Mobile App Developer. You can see my whole journey here: [Coding Journey - Google Docs](https://docs.google.com/document/d/1pp72OmKtEoKodtArt90codOBIdydvExuMR7Cg1q_Eao/edit?usp=sharing). I keep adding to it every few months so be sure to check it out.
 
 
 
 ### About Me
 
-* 💻  I've been coding for over 7 years
+* 💻  I've been coding for almost 7.5 years
 * 👨‍💻  I'm 15 years old
 * 🌍  I'm based in the UK
-* 🎹  I play the Piano
+* 🎹  I play the piano
 * 🏋️‍♂️  I like lifting weights
-* 🎧  I'm a big Trance enjoyer
+* 🎧  I'm a big trance enjoyer
+* 💿  I am also a trance music producer
 
 
 
